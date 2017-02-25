@@ -1,4 +1,4 @@
-Ingredients: Cause conflict 1
+Ingredients: Conflict solved
  - 2 pounds ground beef
  - 2 cloves garlic, chopped
  - One 8-ounce can tomato sauce
